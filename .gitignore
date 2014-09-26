@@ -17,3 +17,6 @@
 
 #Ignore DS Store
 .DS_Store
+
+# prevent conflicts between Spring and Git when using Guard
+/spring/*.pid
